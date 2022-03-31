@@ -6,7 +6,7 @@ Users submit Ask HN posts to ask the Hacker News community a specific question w
 
 The main objective of this project is as below:
 
-**Project Goals:**
+**Project Goals: **
 
 * To determine whether 'Ask HN' Posts or 'Show HN' posts receive a higher number of comments on average.
 * To determine the best time of day to submit your post in order to recieve a high number of comments.
